@@ -8,4 +8,3 @@ end
     @this_dog_name = dog_name
   end
   
-end
